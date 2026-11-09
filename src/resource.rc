@@ -1,0 +1,29 @@
+// Resources: icon, visual-styles/DPI manifest, version info.
+// (windres is run from inside src/, so file names are relative to this folder.)
+1 ICON "app.ico"
+1 24 "app.manifest"
+
+1 VERSIONINFO
+FILEVERSION 1,2,0,0
+PRODUCTVERSION 1,2,0,0
+FILEOS 0x4L
+FILETYPE 0x1L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "FileDescription", "Magic Splash Wand - splash image unpack/repack tool"
+            VALUE "FileVersion", "1.2.0.0"
+            VALUE "InternalName", "MagicSplashWand"
+            VALUE "OriginalFilename", "MagicSplashWand.exe"
+            VALUE "ProductName", "Magic Splash Wand (C++ GUI)"
+            VALUE "ProductVersion", "1.2.0.0"
+            VALUE "LegalCopyright", "Based on Magic Splash Wand by NekoYuzu (MlgmXyysd), MeowCat Studio, Meow Mobile"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
