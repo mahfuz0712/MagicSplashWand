@@ -1,7 +1,6 @@
 # Magic Splash Wand — C++ GUI (Windows)
 
-A native Win32 GUI port of [Magic Splash Wand](https://github.com/MlgmXyysd/Magic-Splash-Wand)
-(originally PHP scripts by NekoYuzu / MlgmXyysd, MeowCat Studio, Meow Mobile).
+A native Win32 GUI application for unpacking and repacking Qualcomm splash images.
 It unpacks and repacks the **splash (boot logo) image** of Qualcomm devices.
 
 | Format | Magic | Images | Notes |
@@ -61,8 +60,6 @@ Always keep a backup of the original splash partition before flashing anything.
 * If several files share a name in an OPlus folder (e.g. `logo.bmp` and `logo.png`) the newest one wins.
 * New: raw (uncompressed) Qualcomm repack option, format auto-detection, preview, drag & drop.
 
-## Licence / credits
+## Developer
 
-The original project ships **without a licence** (“all rights reserved” by MeowCat Studio,
-Meow Mobile and NekoYuzu / MlgmXyysd). This port re-implements its file-format logic;
-please respect the original authors’ rights and credits, and ask them before redistributing.
+Mohammad Mahfuz Rahman

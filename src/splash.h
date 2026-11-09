@@ -1,7 +1,4 @@
-// Magic Splash Wand - C++ GUI port
-//
-// Port of "Magic Splash Wand" (PHP) by NekoYuzu (MlgmXyysd) / MeowCat Studio /
-// Meow Mobile - https://github.com/MlgmXyysd/Magic-Splash-Wand
+// Magic Splash Wand - C++ GUI
 //
 // Tool for unpacking and packaging the splash image of Qualcomm devices.
 #pragma once

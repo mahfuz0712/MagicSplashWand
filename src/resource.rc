@@ -19,7 +19,7 @@ BEGIN
             VALUE "OriginalFilename", "MagicSplashWand.exe"
             VALUE "ProductName", "Magic Splash Wand (C++ GUI)"
             VALUE "ProductVersion", "1.2.0.0"
-            VALUE "LegalCopyright", "Based on Magic Splash Wand by NekoYuzu (MlgmXyysd), MeowCat Studio, Meow Mobile"
+            VALUE "LegalCopyright", "Copyright (C) Mohammad Mahfuz Rahman"
         END
     END
     BLOCK "VarFileInfo"
